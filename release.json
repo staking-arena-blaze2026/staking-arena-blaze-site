@@ -1,10 +1,10 @@
 {
   "sourceRepository": "https://github.com/staking-arena-blaze2026/bch-staking-blaze2026",
   "sourceBranch": "blaze2026",
-  "sourceCommit": "6f52b7fd9080c41d218b5e5acb6a25dff7e1d9f6",
+  "sourceCommit": "22ca2547b19e490bc79c45c03ac7e304352ce512",
   "websiteRepository": "https://github.com/staking-arena-blaze2026/staking-arena-blaze-site",
   "url": "https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/",
-  "builtAt": "2026-11-14T16:31:49.595Z",
+  "builtAt": "2026-11-14T17:25:00.492Z",
   "network": "chipnet",
   "sourceBaseline": "0f2666c4002098c3534ddec9986b8f9114986119",
   "websiteBaseline": "e685e6bd62381c3a587b3cb1d0c79d2affc0f459",
@@ -32,14 +32,14 @@
       "bytes": 120
     },
     {
-      "path": "assets/V3Arena-DpGK3i0j.js",
-      "sha256": "c57e0fcb3a61fe25228ebf47370ae066b80057b3fdc00bc151e544e2b492b561",
-      "bytes": 26085
+      "path": "assets/V3Arena-CjX0G149.js",
+      "sha256": "cdbcc860f4e8b71d9f04f462ec4ee96cb2e54bc416a79dcfa99f239f1473a84f",
+      "bytes": 27176
     },
     {
-      "path": "assets/app-entry-CHjENQT8.js",
-      "sha256": "354e234641118bd5ddcd72973257c591ef33ec9b4badc7870cc4a7d5cf1a1e29",
-      "bytes": 785745
+      "path": "assets/app-entry-CgU6EQA6.js",
+      "sha256": "93f9f9b1e1d33422eaf6ed7c978c4b5a0e9098842845350771d45b8432f9ecae",
+      "bytes": 785924
     },
     {
       "path": "assets/app-entry-DXMEOSI4.css",
@@ -57,23 +57,23 @@
       "bytes": 139229
     },
     {
-      "path": "assets/electrum-wallet-BAJIoOhl.js",
-      "sha256": "2033244fb6c47ad13fb5338398c6732058eac35087d6f3d942252102ed7905b2",
-      "bytes": 282435
+      "path": "assets/electrum-wallet-CwKfgReX.js",
+      "sha256": "80dd06059cd4bfe4cb549fe64ed07032f0f18c583fbbcc59a6e325c98e02cd8f",
+      "bytes": 285136
     },
     {
-      "path": "assets/index-B_00DP2F.js",
-      "sha256": "df49b9c60eac11aea8acc6c17ca02b64ff6e4244d0d0d855ce4a713fd1a25710",
+      "path": "assets/index-C4BjXGNU.js",
+      "sha256": "0dac046c1c6a55e35d2892e4980fe6f5a2b8fce06d1892b5fe2c437a90556216",
       "bytes": 1796
     },
     {
-      "path": "assets/indexer-7KKv9YpT.js",
-      "sha256": "fcbbb9d1dfc76531b38618dba32fb8ab91f937c6f455af211730e45031113be4",
+      "path": "assets/indexer-Czi70w4s.js",
+      "sha256": "7543ed3b3fbb723c8913d460c19219df44036257d76fad0ab5c93bb52a49e344",
       "bytes": 53
     },
     {
-      "path": "assets/indexer-BXSTnHES.js",
-      "sha256": "a765f059f3a07f4f387065d70467a937e3891309912bf96a32c7e863a399913f",
+      "path": "assets/indexer-D_N_du8n.js",
+      "sha256": "0104d622c88f7e8f91cba1138d4d34d9be03146bb2f8372a78a6cdba75714a95",
       "bytes": 45900
     },
     {
@@ -107,28 +107,28 @@
       "bytes": 599
     },
     {
-      "path": "assets/v3.worker-xzVCvsN1.js",
-      "sha256": "cc2393118a928afc3c199a1ecd5acddc053b728048ff18535166b9dea6875b6e",
-      "bytes": 720598
+      "path": "assets/v3.worker-CDW-rahj.js",
+      "sha256": "492d528c7e95c03a9d9a99387d7122d4bd68bab7c37664859d4c67853ee966f6",
+      "bytes": 723022
     },
     {
-      "path": "assets/v3Client-BYlNmrtn.js",
-      "sha256": "de65ed755b35f339528df9467011d2cfa7a30a1db36aee89498b56bb5b411a62",
-      "bytes": 3200
+      "path": "assets/v3Client-BK9XcTi5.js",
+      "sha256": "a6d7f99aa6b6b0984299932d6d1062a4bbdcb9b712da39617a279b5d93ad65aa",
+      "bytes": 3324
     },
     {
-      "path": "assets/wallet-CPjthZGA.js",
-      "sha256": "f5f5a1035d0ad9eaaa4512f5b0683b33c15c05b8d8fd7e5663f94cbf98b4fa5d",
+      "path": "assets/wallet-B8sefB7d.js",
+      "sha256": "ddf0cadc897bd73d02dacf7dfccdcc47977200e576db67597681ea0a5e6d1e1b",
       "bytes": 12226
     },
     {
-      "path": "assets/wallet.worker-CIHbSpAb.js",
-      "sha256": "e8c8589d8c5afb091622d3d1169f7e7096ace1e04aa176cb4dd6dbcde40acf0f",
+      "path": "assets/wallet.worker-BE6sHDT9.js",
+      "sha256": "de09d60c7d57940485c0f7c38f24bd1cb234f8488e921d0299a326d70e91b5f9",
       "bytes": 43695
     },
     {
       "path": "index.html",
-      "sha256": "4027be45886e35f37611236dbbe021a77be75af2d147352d45583b45e4d58765",
+      "sha256": "1ec12580aa552cb6c62909f89f7add8643e42b5d0c346473563d6174a997125c",
       "bytes": 1262
     },
     {
