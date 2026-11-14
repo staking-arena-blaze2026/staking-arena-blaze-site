@@ -1,10 +1,10 @@
 {
   "sourceRepository": "https://github.com/staking-arena-blaze2026/bch-staking-blaze2026",
   "sourceBranch": "blaze2026",
-  "sourceCommit": "22ca2547b19e490bc79c45c03ac7e304352ce512",
+  "sourceCommit": "d8b0eb991ab7286d0b78a5ddc30c80fd3be1bad4",
   "websiteRepository": "https://github.com/staking-arena-blaze2026/staking-arena-blaze-site",
   "url": "https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/",
-  "builtAt": "2026-11-14T17:25:00.492Z",
+  "builtAt": "2026-11-14T17:31:35.583Z",
   "network": "chipnet",
   "sourceBaseline": "0f2666c4002098c3534ddec9986b8f9114986119",
   "websiteBaseline": "e685e6bd62381c3a587b3cb1d0c79d2affc0f459",
@@ -32,13 +32,13 @@
       "bytes": 120
     },
     {
-      "path": "assets/V3Arena-CjX0G149.js",
-      "sha256": "cdbcc860f4e8b71d9f04f462ec4ee96cb2e54bc416a79dcfa99f239f1473a84f",
+      "path": "assets/V3Arena-DCPX1Y_I.js",
+      "sha256": "dcd117c63ed84fced5f971e1535addfa496124c73b0bb9f185753b754a2c4d1f",
       "bytes": 27176
     },
     {
-      "path": "assets/app-entry-CgU6EQA6.js",
-      "sha256": "93f9f9b1e1d33422eaf6ed7c978c4b5a0e9098842845350771d45b8432f9ecae",
+      "path": "assets/app-entry-Cls3h5BY.js",
+      "sha256": "49bf19e6aba3dd2d3209710ab220f36fe915c340aeb638dd7071728080867418",
       "bytes": 785924
     },
     {
@@ -57,23 +57,23 @@
       "bytes": 139229
     },
     {
-      "path": "assets/electrum-wallet-CwKfgReX.js",
-      "sha256": "80dd06059cd4bfe4cb549fe64ed07032f0f18c583fbbcc59a6e325c98e02cd8f",
-      "bytes": 285136
+      "path": "assets/electrum-wallet-CqRav7YI.js",
+      "sha256": "688ad50d9b4d85579746296f747ac0b9978f1b458343af403c390fd445f65c0a",
+      "bytes": 285215
     },
     {
-      "path": "assets/index-C4BjXGNU.js",
-      "sha256": "0dac046c1c6a55e35d2892e4980fe6f5a2b8fce06d1892b5fe2c437a90556216",
+      "path": "assets/index-DSWoLg-y.js",
+      "sha256": "bd09aad2376acfc762e739b5a446fde92326b8da13c06f6a14b873cd857397d2",
       "bytes": 1796
     },
     {
-      "path": "assets/indexer-Czi70w4s.js",
-      "sha256": "7543ed3b3fbb723c8913d460c19219df44036257d76fad0ab5c93bb52a49e344",
+      "path": "assets/indexer-FSPt7sEC.js",
+      "sha256": "6e582060b41782d4794276e7256258621a21e539028474bfcc7fb8815ee94f18",
       "bytes": 53
     },
     {
-      "path": "assets/indexer-D_N_du8n.js",
-      "sha256": "0104d622c88f7e8f91cba1138d4d34d9be03146bb2f8372a78a6cdba75714a95",
+      "path": "assets/indexer-l_a3KsfP.js",
+      "sha256": "fe8080c0c54b585eb765bac38a673ea87da948010c20c7da748b469312563bdf",
       "bytes": 45900
     },
     {
@@ -107,28 +107,28 @@
       "bytes": 599
     },
     {
-      "path": "assets/v3.worker-CDW-rahj.js",
-      "sha256": "492d528c7e95c03a9d9a99387d7122d4bd68bab7c37664859d4c67853ee966f6",
-      "bytes": 723022
+      "path": "assets/v3.worker-C0OxeH9_.js",
+      "sha256": "df32b1176453f6371188b6bfbe7cd1206d963957789e29212aa27f4ff8fc648b",
+      "bytes": 723101
     },
     {
-      "path": "assets/v3Client-BK9XcTi5.js",
-      "sha256": "a6d7f99aa6b6b0984299932d6d1062a4bbdcb9b712da39617a279b5d93ad65aa",
+      "path": "assets/v3Client-8A88PgVJ.js",
+      "sha256": "7d3596dfa8944751835f7813f768c9895b4c61a5f1b50b43afb16546ac8bd065",
       "bytes": 3324
     },
     {
-      "path": "assets/wallet-B8sefB7d.js",
-      "sha256": "ddf0cadc897bd73d02dacf7dfccdcc47977200e576db67597681ea0a5e6d1e1b",
+      "path": "assets/wallet-Dde3FBGo.js",
+      "sha256": "b39bb09f4f71650d482a671567550fc71f8b6d63f1b655c8c93c476da1e07bd5",
       "bytes": 12226
     },
     {
-      "path": "assets/wallet.worker-BE6sHDT9.js",
-      "sha256": "de09d60c7d57940485c0f7c38f24bd1cb234f8488e921d0299a326d70e91b5f9",
+      "path": "assets/wallet.worker-CymeKPf8.js",
+      "sha256": "abafff6f0ce596d33090d2a86beaf84824185a0927a2c2886b0efa21eaae69d6",
       "bytes": 43695
     },
     {
       "path": "index.html",
-      "sha256": "1ec12580aa552cb6c62909f89f7add8643e42b5d0c346473563d6174a997125c",
+      "sha256": "5796bafac0d246d9d3e352555fd93f52a59da49d75b1f67b24d8d779c45a7dd3",
       "bytes": 1262
     },
     {
