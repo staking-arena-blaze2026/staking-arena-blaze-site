@@ -1,4 +1,5 @@
 // Publish generated public files only, and refuse any original repository target.
+// Pushing this file starts Deploy BCH Blaze website, which builds blaze2026.
 import {cp,readFile,readdir,rm,writeFile} from 'node:fs/promises';
 import {resolve,join} from 'node:path';
 import {execFileSync} from 'node:child_process';
