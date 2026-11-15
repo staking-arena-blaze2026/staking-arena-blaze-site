@@ -1,1 +1,0 @@
-export{t as AssetIndexer}from"./indexer-D5U-RZKD.js";
