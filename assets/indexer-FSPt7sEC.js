@@ -1,1 +1,0 @@
-export{t as AssetIndexer}from"./indexer-l_a3KsfP.js";
