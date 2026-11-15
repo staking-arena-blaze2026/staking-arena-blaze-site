@@ -1,4 +1,1 @@
-{
-  "network": "chipnet",
-  "vaults": []
-}
+{"network":"chipnet","complete":false,"vaults":[{"version":3,"genesis":"fa5bae8625e61ec15a9d1527157f1e544d6d4bee9a1a268095099320e33e8c86","stakingAsset":{"kind":"bch"},"rewardAsset":{"kind":"bch"},"epoch":1794738991,"periodSeconds":360,"periods":9,"cap":"1000"}]}
