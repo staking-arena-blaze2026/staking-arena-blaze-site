@@ -1,10 +1,10 @@
 {
   "sourceRepository": "https://github.com/staking-arena-blaze2026/bch-staking-blaze2026",
   "sourceBranch": "blaze2026",
-  "sourceCommit": "ac60e6500a944cc4b76653c4c13d561af89a0650",
+  "sourceCommit": "2f1f0553194568e778e53244da7b67e7f21e217b",
   "websiteRepository": "https://github.com/staking-arena-blaze2026/staking-arena-blaze-site",
   "url": "https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/",
-  "builtAt": "2026-11-15T19:26:21.747Z",
+  "builtAt": "2026-11-15T19:32:36.143Z",
   "network": "mainnet",
   "defaultNetwork": "mainnet",
   "networks": [
@@ -48,9 +48,9 @@
       "bytes": 12882
     },
     {
-      "path": "assets/app-entry-CsvMR68k.js",
-      "sha256": "c1e4fdb34c44156e9206f67290922b5c3043751714cbf2a4247de5c7d3f3dbd0",
-      "bytes": 793430
+      "path": "assets/app-entry-Bho4BBKe.js",
+      "sha256": "e14ca010edeaa457ed69f4001f0493d47927029e4ae4dc618a46cceba22e6abb",
+      "bytes": 793327
     },
     {
       "path": "assets/arena.worker-C7wqA911.js",
@@ -68,8 +68,8 @@
       "bytes": 299310
     },
     {
-      "path": "assets/index-DhQRVIHo.js",
-      "sha256": "41bec98e672fb39b2db4fd953c2ca542ce1df83c276509c533d0ddff982fcb8a",
+      "path": "assets/index-D5vdCIlQ.js",
+      "sha256": "763c64921479a69a71dab6ee4f39696d34e13fe624a8a0203fc8086a8767d5d7",
       "bytes": 1796
     },
     {
@@ -134,7 +134,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "5bc537e3de07dd35349e75d0973fb8360edb0461e7bff6d5e8e78948aa3fe9c7",
+      "sha256": "6e3ed0d7087244ec797df15d8e57ba28de725a74e0c4751e205e16ce057fb5c5",
       "bytes": 1262
     },
     {
