@@ -58,7 +58,7 @@ jobs:
           cache-dependency-path: |
             source/package-lock.json
             source/frontend/package-lock.json
-      - name: Install locked dependencies and build public chipnet frontend
+      - name: Install locked dependencies and build public dual-network frontend
         if: steps.revision.outputs.changed == 'true'
         working-directory: source
         run: |
