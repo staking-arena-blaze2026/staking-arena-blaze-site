@@ -44,14 +44,7 @@ jobs:
         run: |
           source_sha=$(git -C source rev-parse HEAD)
           echo "sha=$source_sha" >> "$GITHUB_OUTPUT"
-          previous_sha=$(node -e "console.log(require('./website/release.json').sourceCommit || '')")
-          if [ "$source_sha" = "$previous_sha" ] && [ "${{ github.event_name }}" = schedule ]; then
-            echo 'changed=false' >> "$GITHUB_OUTPUT"
-          else
-            echo 'changed=true' >> "$GITHUB_OUTPUT"
-          fi
       - uses: actions/setup-node@v4
-        if: steps.revision.outputs.changed == 'true'
         with:
           node-version-file: source/frontend/.node-version
           cache: npm
@@ -59,14 +52,17 @@ jobs:
             source/package-lock.json
             source/frontend/package-lock.json
       - name: Install locked dependencies and build public dual-network frontend
-        if: steps.revision.outputs.changed == 'true'
         working-directory: source
         run: |
           npm ci --ignore-scripts
           npm --prefix frontend ci --ignore-scripts
+          if [ -d ../website/public-index ]; then
+            mkdir -p frontend/public/public-index
+            cp -a ../website/public-index/. frontend/public/public-index/
+          fi
+          INDEX_BUDGET=1500 npx tsx scripts/update-public-index.ts
           npm run blaze:build
       - name: Record compiled website and exact source commit
-        if: steps.revision.outputs.changed == 'true'
         env:
           SOURCE_SHA: ${{ steps.revision.outputs.sha }}
         run: |
@@ -81,11 +77,8 @@ jobs:
           echo "Source commit: $SOURCE_SHA" >> "$GITHUB_STEP_SUMMARY"
           echo "Website commit: $(git -C website rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
       - uses: actions/configure-pages@v5
-        if: steps.revision.outputs.changed == 'true'
       - uses: actions/upload-pages-artifact@v3
-        if: steps.revision.outputs.changed == 'true'
         with:
           path: source/frontend/.pages-production
       - uses: actions/deploy-pages@v4
-        if: steps.revision.outputs.changed == 'true'
         id: deployment

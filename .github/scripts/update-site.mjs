@@ -10,10 +10,11 @@ const remote=execFileSync('git',['-C',target,'remote','get-url','origin'],{encod
 if(!/^https:\/\/github\.com\/staking-arena-blaze2026\/staking-arena-blaze-site(?:\.git)?$/.test(remote))throw Error('Refusing to publish outside the native hackathon website fork');
 if(!/^[0-9a-f]{40}$/.test(process.env.SOURCE_SHA??''))throw Error('Exact source SHA required');
 const files=await readdir(input);
-if(!files.includes('index.html')||!files.includes('assets')||!files.includes('v3-vaults.json')||!files.includes('v3-vaults-mainnet.json')||files.some(p=>!['index.html','arena.svg','v3-vaults.json','v3-vaults-mainnet.json','assets'].includes(p)))throw Error('Unexpected public build contents');
+if(!files.includes('index.html')||!files.includes('assets')||!files.includes('v3-vaults.json')||!files.includes('v3-vaults-mainnet.json')||files.some(p=>!['index.html','arena.svg','v3-vaults.json','v3-vaults-mainnet.json','public-index','assets'].includes(p)))throw Error('Unexpected public build contents');
 const html=await readFile(join(input,'index.html'),'utf8');
 if(!html.includes('/staking-arena-blaze-site/assets/'))throw Error('Wrong Pages project base');
 await rm(join(target,'assets'),{recursive:true,force:true});
+await rm(join(target,'public-index'),{recursive:true,force:true});
 for(const name of files)await cp(join(input,name),join(target,name),{recursive:true});
 await writeFile(join(target,'.nojekyll'),'');
 const assets=[];
