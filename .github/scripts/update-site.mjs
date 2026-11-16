@@ -26,7 +26,7 @@ async function inventory(dir,prefix=''){
  }
 }
 await inventory(input);
-const release={sourceRepository:'https://github.com/staking-arena-blaze2026/bch-staking-blaze2026',sourceBranch:'blaze2026',sourceCommit:process.env.SOURCE_SHA,websiteRepository:'https://github.com/staking-arena-blaze2026/staking-arena-blaze-site',url:'https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/',builtAt:new Date().toISOString(),network:'mainnet',defaultNetwork:'mainnet',networks:['mainnet','chipnet'],chipnetTransactionsEnabled:false,sourceBaseline:'0f2666c4002098c3534ddec9986b8f9114986119',websiteBaseline:'e685e6bd62381c3a587b3cb1d0c79d2affc0f459',mainnetEnabled:true,walletTransactionVerified:false,assets};
+const release={sourceRepository:'https://github.com/staking-arena-blaze2026/bch-staking-blaze2026',sourceBranch:'blaze2026',sourceCommit:process.env.SOURCE_SHA,websiteRepository:'https://github.com/staking-arena-blaze2026/staking-arena-blaze-site',url:'https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/',builtAt:new Date().toISOString(),network:'mainnet',defaultNetwork:'mainnet',networks:['mainnet','chipnet'],chipnetTransactionsEnabled:true,sourceBaseline:'0f2666c4002098c3534ddec9986b8f9114986119',websiteBaseline:'e685e6bd62381c3a587b3cb1d0c79d2affc0f459',mainnetEnabled:true,walletTransactionVerified:false,assets};
 const serialized=JSON.stringify(release,null,2)+'\n';
 await writeFile(join(target,'release.json'),serialized);
 await writeFile(join(input,'release.json'),serialized);
