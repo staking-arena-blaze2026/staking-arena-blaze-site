@@ -3,6 +3,7 @@
 Public native fork of [the original compiled website](https://github.com/scinklja/staking-arena-site).
 
 - **Hackathon website:** https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/
+- **About Stake Arena:** [About document](https://github.com/staking-arena-blaze2026/bch-staking-blaze2026/blob/blaze2026/ABOUT.md) · [Published About page](https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/#/about)
 - **Hackathon source:** https://github.com/staking-arena-blaze2026/bch-staking-blaze2026/tree/blaze2026
 - **Baseline and judging instructions:** https://github.com/staking-arena-blaze2026/bch-staking-blaze2026/blob/blaze2026/docs/BLAZE_2026_BASELINE.md
 - **Original unchanged website:** https://scinklja.github.io/staking-arena-site/
