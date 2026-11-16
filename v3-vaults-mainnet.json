@@ -1,1 +1,1 @@
-{"network":"mainnet","vaults":[]}
+{"network":"mainnet","vaults":[{"version":3,"discovery":1,"registryVersion":4,"stakingAsset":{"kind":"bch"},"rewardAsset":{"kind":"bch"},"epoch":1794771663,"periodSeconds":360,"periods":5,"cap":"1000","genesis":"c14b3170fd156ee0b5cdefba0241981407a481caa08d7169b2e07ea5caccb2e5"}]}

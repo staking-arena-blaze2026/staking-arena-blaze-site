@@ -4,13 +4,16 @@
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="theme-color" content="#132f2b"/>
-    <meta name="description" content="CHIPNET — TEST FUNDS ONLY. Browse verified chipnet vaults and offers through browser Electrum, with optional permissionless period processing."/>
+    <meta name="description" content="Browse public Bitcoin Cash mainnet and chipnet vault candidates. Financial state is independently verified before wallet-authorized transactions."/>
     <link rel="icon" type="image/svg+xml" href="./arena.svg"/>
     <title>Staking Arena · Vault marketplace</title>
-    <script type="module" crossorigin src="/staking-arena-blaze-site/assets/index-D5vdCIlQ.js"></script>
+    <script type="module" crossorigin src="/staking-arena-blaze-site/assets/index-D-NoMMJZ.js"></script>
+    <link rel="modulepreload" crossorigin href="/staking-arena-blaze-site/assets/publicIndexTransport-DNoH_kqY.js">
     <link rel="modulepreload" crossorigin href="/staking-arena-blaze-site/assets/preload-helper-CgO_7G-2.js">
   </head>
   <body>
+    <style>#arena-public-preview:not([hidden])~#root{display:none}</style>
+    <main id="arena-public-preview" hidden style="font:16px system-ui;max-width:1120px;margin:auto;padding:24px;overflow-wrap:anywhere;color:#173a31"></main>
     <div id="root"><div id="arena-startup" role="status" style="font:16px system-ui;padding:32px">Loading Staking Arena…</div></div>
     <noscript>
       <style>#root{display:none}</style>
