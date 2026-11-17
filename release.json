@@ -4,7 +4,7 @@
   "sourceCommit": "83f9ce8090b88b89369cdf58c04c7c40cbe58d22",
   "websiteRepository": "https://github.com/staking-arena-blaze2026/staking-arena-blaze-site",
   "url": "https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/",
-  "builtAt": "2026-11-17T18:18:21.391Z",
+  "builtAt": "2026-11-17T18:30:33.218Z",
   "network": "mainnet",
   "defaultNetwork": "mainnet",
   "networks": [
@@ -164,22 +164,22 @@
     },
     {
       "path": "public-index/chipnet/index.json",
-      "sha256": "9863665aa6370d40a3e5ab453ff082de3a57f1ab0455f98eab5ca56a303d6921",
+      "sha256": "f6908110288d031d30a7035f4e13f1a55dd628fef4fa135b43da5dbadaea1d25",
       "bytes": 651
     },
     {
       "path": "public-index/chipnet/state.json",
-      "sha256": "5edc1d7e6b2117173e83f70a6db3b1bd4a8125801532c141bee8f2cf91bbe0d9",
+      "sha256": "7a8e88805a04901735e92b95e34d8550fd7d597dfe7d0228451048f946bc408f",
       "bytes": 829
     },
     {
       "path": "public-index/mainnet/index.json",
-      "sha256": "095b879325fd9a0369ab9da6e90f05efc959455774426b17f0f9b3186bd4309a",
+      "sha256": "2ef07213d5ef18d820cfefbd6728c4c98052cf98159a9f7b7fa3caadfe348331",
       "bytes": 1474
     },
     {
       "path": "public-index/mainnet/state.json",
-      "sha256": "827b834476f69ae0a73fc24ae45ecb4e515a2f46fea83306091bd8d060bd7212",
+      "sha256": "7365d2b2069f606bb0df0fc4a4a90cbe38961a0c446d24bbf72d1da7075caa12",
       "bytes": 1009289
     },
     {
