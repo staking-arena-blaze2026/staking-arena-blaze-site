@@ -4,7 +4,7 @@
   "sourceCommit": "a718a1d40c917a272aa815d764fa66ea82e2a914",
   "websiteRepository": "https://github.com/staking-arena-blaze2026/staking-arena-blaze-site",
   "url": "https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/",
-  "builtAt": "2026-11-18T16:13:09.783Z",
+  "builtAt": "2026-11-18T17:30:27.060Z",
   "network": "mainnet",
   "defaultNetwork": "mainnet",
   "networks": [
@@ -189,27 +189,27 @@
     },
     {
       "path": "public-index/chipnet/index.json",
-      "sha256": "428f032009fab630b9da12264ab26ff187909eabb05d3ea7d0850cec48f87fd7",
+      "sha256": "5b11202a01d67b666e288e4b260e65706e08b9b92054e877c93fe993bbfd735a",
       "bytes": 651
     },
     {
       "path": "public-index/chipnet/state.json",
-      "sha256": "d814abd668600d3aaccbf26c2181de40cf93bd2c20c4be70008f8185676e2b6b",
+      "sha256": "13376f3349b78510005fbebdeed268ab398f6be0bd4f87279e04e44a34f7222e",
       "bytes": 829
     },
     {
       "path": "public-index/mainnet/index.json",
-      "sha256": "b5c1de1aa06ad0573c89601ed2fd755b66343d8229f0795ade5d68a54c0bb182",
-      "bytes": 1474
+      "sha256": "98cbd08368692b5ebd0dbb89b5ab823bef9d10732122b5af6abfd08048e2b58a",
+      "bytes": 1623
     },
     {
       "path": "public-index/mainnet/state.json",
-      "sha256": "a96c12e3970254d2a30b0c8ade0d15d6575b25eab3fb78bab235359500b23f60",
+      "sha256": "d72935ec2d11a5f2cebbc091259373b71c9be30abae6c57ed60cd3ea5933e1ea",
       "bytes": 1009289
     },
     {
       "path": "public-index/queue/chipnet/index.json",
-      "sha256": "1598d1cbbc75ef544233673793ef8925a241329d69ea8d156e2fe42d23a137cd",
+      "sha256": "6cd64f6322034616ff6dd0e3bf0704dc4cd4a98fc1c8ec1da1cee73b80efbcc8",
       "bytes": 162
     },
     {
@@ -219,8 +219,8 @@
     },
     {
       "path": "public-index/queue/mainnet/index.json",
-      "sha256": "4a5e80a1f1b9a077079a9b47b3cda475aeea0c9a619b640d94f04973f83563de",
-      "bytes": 162
+      "sha256": "6fcb4cd18339f065d8d3b9db0ca59d06612e9a4296c38782d6986e4c7fccf3e6",
+      "bytes": 244
     },
     {
       "path": "public-index/queue/mainnet/state.json",
