@@ -1,10 +1,10 @@
 {
   "sourceRepository": "https://github.com/staking-arena-blaze2026/bch-staking-blaze2026",
   "sourceBranch": "blaze2026",
-  "sourceCommit": "662e93cd9d5ecf0634e3202d15efde253b6e0709",
+  "sourceCommit": "ed5fd21a8da1b300ccf1dd104870aa1326a9ec4b",
   "websiteRepository": "https://github.com/staking-arena-blaze2026/staking-arena-blaze-site",
   "url": "https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/",
-  "builtAt": "2026-11-18T12:04:00.872Z",
+  "builtAt": "2026-11-18T12:19:44.760Z",
   "network": "mainnet",
   "defaultNetwork": "mainnet",
   "networks": [
@@ -38,13 +38,13 @@
       "bytes": 2338
     },
     {
-      "path": "assets/QueueArena-CDgpvzwU.js",
-      "sha256": "de4745937987eae21159d8d926742dee30ab50950945f140297d2b90ff43af5a",
+      "path": "assets/QueueArena-TZ2B-02d.js",
+      "sha256": "80b617bf3754aae839d6ed699a18240a7b0da64feee7a5d15c888d5c80de5f5c",
       "bytes": 31369
     },
     {
-      "path": "assets/app-entry-D1lkRDdZ.js",
-      "sha256": "851a1d50ff5c66a1ca2962c2729073fa4686604594034f92390e8a967a1b5915",
+      "path": "assets/app-entry-BvOKMdrg.js",
+      "sha256": "3ff3d3dae7e86ae6e50289959f785a9733b6b2bb1df66ef4c21e70ed19c9da33",
       "bytes": 937424
     },
     {
@@ -88,8 +88,8 @@
       "bytes": 304597
     },
     {
-      "path": "assets/index-D_GU1kYo.js",
-      "sha256": "a12714c39140243b84e881ee620160ab6565fb54aef6844574caaaf9c2fe3083",
+      "path": "assets/index-4c2-hYlP.js",
+      "sha256": "e3ea14573da24e71851b95210f75a7921686b46066f773dc54d31a58656201ca",
       "bytes": 5467
     },
     {
@@ -128,9 +128,9 @@
       "bytes": 3248
     },
     {
-      "path": "assets/queue.worker-t4cSdczc.js",
-      "sha256": "94f9dd247e067c7757bd8e94285f85fbc57f085d6f46e2035e972545160cffa5",
-      "bytes": 733287
+      "path": "assets/queue.worker-DEZvaFII.js",
+      "sha256": "7247c57917a4981875bda5bff294b1d041cfdf813439d4ea4bc7fba40aa8fa7b",
+      "bytes": 734708
     },
     {
       "path": "assets/queueCatalog-BryzwbU3.js",
@@ -138,8 +138,8 @@
       "bytes": 1448
     },
     {
-      "path": "assets/queueClient-CCUPELue.js",
-      "sha256": "c7218b2ad0d2932df4ab7529138d72441ef183c0fe64e98e8f4b629329bc27f2",
+      "path": "assets/queueClient-DfBChYIX.js",
+      "sha256": "2d86a0ab0d4316c91be1a2e8f83c3e5e8f92fd418174b6531fbb38d03b083a27",
       "bytes": 6972
     },
     {
@@ -174,32 +174,32 @@
     },
     {
       "path": "index.html",
-      "sha256": "87533823b06cd0ed8ec40d5cdce14149e97b806812359a7818285bcd66450101",
+      "sha256": "e72d764e9910d4888da94c09fc46017cba8228f741a8e331af41a037d1630822",
       "bytes": 1640
     },
     {
       "path": "public-index/chipnet/index.json",
-      "sha256": "e84345dca99b3115b19f4e01185d4d026eceb0fb4ad9c00ca42992f72833a6ef",
+      "sha256": "6e492f894533b327afabf7cd7c1ca7f4e4100e7d5d402a5ab2cf854db3c04240",
       "bytes": 651
     },
     {
       "path": "public-index/chipnet/state.json",
-      "sha256": "b3d8972a98020409a9b0125cb79d2a4c44686c0aa6780c2fa7e61a679f7ae38f",
+      "sha256": "c9b26952ca7050144f4222e72dbcd703e8b60f13c74fb066f5a64a0c2f7f82a1",
       "bytes": 829
     },
     {
       "path": "public-index/mainnet/index.json",
-      "sha256": "bc8d7ac770ee772f05b9e846c5c7d457c501a0d71d72ceca1ed1f1442dd47241",
+      "sha256": "a54a5e12d68f6152ec011c0c082c1cc3f0354ea1724ce4affa08ec76225aad2d",
       "bytes": 1474
     },
     {
       "path": "public-index/mainnet/state.json",
-      "sha256": "43ae20f9c44cb706d299a8977523e9314099f9eccac578b65a50593926817863",
+      "sha256": "cf6bcf026a7ce2477d60a539ca3d87a90cfe9842eeccb1ad7246e54adf803bce",
       "bytes": 1009289
     },
     {
       "path": "public-index/queue/chipnet/index.json",
-      "sha256": "286e8dcd54c88836990f4e02ec8740942ddf367c37a87e85d28a7aaf200242ce",
+      "sha256": "a5143dc115ea3673d0fa47423cf8049cb3f563f7e4a87ea02558adeee03de6c0",
       "bytes": 162
     },
     {
@@ -209,7 +209,7 @@
     },
     {
       "path": "public-index/queue/mainnet/index.json",
-      "sha256": "6d9335e3869d0996aec3da0862b121f6ffa67fb1b8b1f92f1c0b8ab7cf62457e",
+      "sha256": "58fadc66ba3a6cc4a02b5e362d6734951d089a65e1ab502d4c15a2491efc97c0",
       "bytes": 162
     },
     {
