@@ -1,11 +1,9 @@
 {
   "network": "mainnet",
   "financialAuthority": false,
-  "updatedAt": "2026-11-18T11:04:51.190Z",
+  "updatedAt": "2026-11-18T11:54:27.629Z",
   "total": 0,
   "vaults": [],
   "pages": [],
-  "errors": [
-    "Error: wss://bch.loping.net:50004: Error: Electrum WSS connection failed"
-  ]
+  "errors": []
 }
