@@ -1,7 +1,7 @@
 {
   "network": "chipnet",
   "financialAuthority": false,
-  "updatedAt": "2026-11-18T19:40:11.766Z",
+  "updatedAt": "2026-11-18T21:26:26.174Z",
   "total": 1,
   "vaults": [
     {
@@ -24,5 +24,7 @@
     }
   ],
   "pages": [],
+  "online": 2,
+  "pending": {},
   "errors": []
 }

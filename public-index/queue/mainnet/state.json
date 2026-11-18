@@ -2,8 +2,28 @@
   "network": "mainnet",
   "seen": [
     "8f7b064a0051163b68ed812a07710c1671e4257a7302ced47f094b0d2bc596c8",
-    "5377b4f208064d4642fb9e58787708b4dbeba5a9eaaceee23d83682cc0e08d19"
+    "5377b4f208064d4642fb9e58787708b4dbeba5a9eaaceee23d83682cc0e08d19",
+    "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408"
   ],
   "pending": {},
-  "vaults": {}
+  "vaults": {
+    "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408": {
+      "parameters": {
+        "stakingCategory": "0000000000000000000000000000000000000000000000000000000000000000",
+        "rewardCategory": "0000000000000000000000000000000000000000000000000000000000000000",
+        "epoch": 1795034885,
+        "interval": 43200,
+        "releases": 6,
+        "cap": "2000"
+      },
+      "identity": {
+        "vault": "984f9e9cd1e36d709caaec713d11d865939d2ed5271777c8412d62233bf24880",
+        "queue": "cf67f91815c82006f1bf163e576aaf01951d8c0eee5e9b6173bf773fb6522838"
+      },
+      "anchor": {
+        "genesis": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
+        "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
+      }
+    }
+  }
 }
