@@ -1,9 +1,28 @@
 {
   "network": "chipnet",
   "financialAuthority": false,
-  "updatedAt": "2026-11-18T19:06:38.235Z",
-  "total": 0,
-  "vaults": [],
+  "updatedAt": "2026-11-18T19:40:11.766Z",
+  "total": 1,
+  "vaults": [
+    {
+      "parameters": {
+        "stakingCategory": "0000000000000000000000000000000000000000000000000000000000000000",
+        "rewardCategory": "0000000000000000000000000000000000000000000000000000000000000000",
+        "epoch": 1795032704,
+        "interval": 43200,
+        "releases": 6,
+        "cap": "2000"
+      },
+      "identity": {
+        "vault": "a1f9c71550697d475b73e4567e2c81549b764a23f95a6fba43ca8e901b8006ee",
+        "queue": "ad554f61aae10ab1566a951c5cb7545ae76654a3e6a584f7cb2587d273791139"
+      },
+      "anchor": {
+        "genesis": "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a",
+        "creator": "03c03dd7d70d260d76e4d7cedb1fbe0d8af680f8247b912bc2bd1a9697ec7306b7"
+      }
+    }
+  ],
   "pages": [],
   "errors": []
 }
