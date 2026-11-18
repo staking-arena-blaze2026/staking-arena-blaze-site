@@ -1,10 +1,10 @@
 {
   "sourceRepository": "https://github.com/staking-arena-blaze2026/bch-staking-blaze2026",
   "sourceBranch": "blaze2026",
-  "sourceCommit": "f3bb9ee3da0c91f3606190c542ce77fe1525c7d6",
+  "sourceCommit": "a3f82f6507d1b8741c8a73d7ddd05a216cd17fa5",
   "websiteRepository": "https://github.com/staking-arena-blaze2026/staking-arena-blaze-site",
   "url": "https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/",
-  "builtAt": "2026-11-18T10:40:44.060Z",
+  "builtAt": "2026-11-18T11:04:55.035Z",
   "network": "mainnet",
   "defaultNetwork": "mainnet",
   "networks": [
@@ -38,14 +38,14 @@
       "bytes": 2338
     },
     {
-      "path": "assets/QueueArena-D10cyoiN.js",
-      "sha256": "30f00ae2488c6d5e5cf6d43cd97c6a76203d7f77734d49fee632a0c9c0d34d70",
-      "bytes": 26226
+      "path": "assets/QueueArena-DYEdxJs5.js",
+      "sha256": "024b47a42baf95de83725cff72466219b02b60505ca8781d25239ebd5ec971e9",
+      "bytes": 26911
     },
     {
-      "path": "assets/app-entry-DRkS4GM3.js",
-      "sha256": "8624b790271cd91a08a7260838a83ad7204dac11b77d1474315b42d69c947943",
-      "bytes": 936207
+      "path": "assets/app-entry-pzP66g4A.js",
+      "sha256": "812278e184bb5267966092dc92a03a65c1e4f98314fbcfa7e9a5d66832a92263",
+      "bytes": 937296
     },
     {
       "path": "assets/arena.worker-BOjXaidt.js",
@@ -88,8 +88,8 @@
       "bytes": 304597
     },
     {
-      "path": "assets/index-1C8y42gK.js",
-      "sha256": "755dce5a064cc35b2e8c6115ebbe1d0e9dfa1ea971db79890ca0d61725902e62",
+      "path": "assets/index-COSarRX8.js",
+      "sha256": "0612a6face02f9307b031981e143e5df4562ea92f8c9cbc945d407f7d63c299f",
       "bytes": 5467
     },
     {
@@ -128,9 +128,9 @@
       "bytes": 37149
     },
     {
-      "path": "assets/queue.worker-BQ80U9hI.js",
-      "sha256": "b860342d4ac2a48212526f397b09e917fce6c7002746d0ee888eaa6fe7d3879d",
-      "bytes": 719412
+      "path": "assets/queue.worker-CnuTzzfz.js",
+      "sha256": "604a03253b3e89836d44a71c3877b9af98cf20bbfa1f37552da6e8f7f2d2dcb8",
+      "bytes": 724794
     },
     {
       "path": "assets/queueCatalog-BryzwbU3.js",
@@ -138,9 +138,9 @@
       "bytes": 1448
     },
     {
-      "path": "assets/queueClient-DNbSa3YT.js",
-      "sha256": "c87fc08641afa985710283d5b2e0052652b66e6b60c233451a49446fe3999c07",
-      "bytes": 3521
+      "path": "assets/queueClient-BQ6j4ZY0.js",
+      "sha256": "390c5226c7e1d09b1c0a08b525e355746c088d6134ae22f274638d1fdc8aa6c4",
+      "bytes": 6932
     },
     {
       "path": "assets/registry-R-0oSpMz.js",
@@ -174,32 +174,32 @@
     },
     {
       "path": "index.html",
-      "sha256": "0c726a7c20eecd6998ec63542c538b5fa9984fc05f1901f4c85121659c7e4d5a",
+      "sha256": "656fc44f938d6c37782e72c69c431f23dab4363d27b55023c22fec4fa834bda2",
       "bytes": 1640
     },
     {
       "path": "public-index/chipnet/index.json",
-      "sha256": "b9a4a31a113e13e1f9f7c045036498d979dcf8e337223c5a069865f921422278",
+      "sha256": "db57dcf19cafee675e976aeac644186bcb991f0aea0772d51892fcf50123165e",
       "bytes": 651
     },
     {
       "path": "public-index/chipnet/state.json",
-      "sha256": "1ad02c036ed683e145bfe1cbb742d0f0fb7377e0a938b567826225027d710980",
+      "sha256": "abf8eaf3ff585d12609252c4e82f0806fb3c342722123418d30b1b9f27e9f9fa",
       "bytes": 829
     },
     {
       "path": "public-index/mainnet/index.json",
-      "sha256": "bf62f6b8bd63d4e0cca012f104b4ce83cbd2b4730bb940df998005923c9e793a",
+      "sha256": "2c093a54e28a97abbed10442dd814de6c5631c72d8c382fe3823aba96b1ed117",
       "bytes": 1623
     },
     {
       "path": "public-index/mainnet/state.json",
-      "sha256": "31f34d13506d8aedc8163a4944467184b4e48caa5dcd5bae5f56402fd291a3a2",
+      "sha256": "5f9e80d715d142b89aa3b0ba36d4c3108e179621baa4341415e40cd6bce1783d",
       "bytes": 1009289
     },
     {
       "path": "public-index/queue/chipnet/index.json",
-      "sha256": "6273a3d4b667a88f3cc205f2b782746c9d83ffeeadeeccebbff5eaea06053172",
+      "sha256": "b0f7b52c746613d7f42e12d91cbd087cc6fcd3fcc5790e1208a972ca7a100894",
       "bytes": 162
     },
     {
@@ -209,7 +209,7 @@
     },
     {
       "path": "public-index/queue/mainnet/index.json",
-      "sha256": "2c1cec4b91e378b639c75e6fe7b759322d9efb78788a79beb4d5f6d16976cae4",
+      "sha256": "f49f1020363d24187e2562b29b8fad068f06904ff650f2046a8e451ab5a7951c",
       "bytes": 244
     },
     {
