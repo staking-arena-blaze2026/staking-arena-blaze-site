@@ -1,7 +1,7 @@
 {
   "network": "mainnet",
   "financialAuthority": false,
-  "updatedAt": "2026-11-19T10:47:26.556Z",
+  "updatedAt": "2026-11-19T10:51:39.289Z",
   "total": 3,
   "vaults": [
     {
@@ -61,6 +61,8 @@
   ],
   "pages": [],
   "online": 2,
-  "pending": {},
+  "pending": {
+    "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5": "Awaiting on-chain confirmation"
+  },
   "errors": []
 }
