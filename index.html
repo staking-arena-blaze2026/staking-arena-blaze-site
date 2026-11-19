@@ -7,15 +7,26 @@
     <meta name="description" content="Browse public Bitcoin Cash mainnet and chipnet vault candidates. Financial state is independently verified before wallet-authorized transactions."/>
     <link rel="icon" type="image/webp" href="./assets/brand/stake-arena-grill-emblem.webp"/>
     <title>Stake Arena · Vault marketplace</title>
-    <script type="module" crossorigin src="/staking-arena-blaze-site/assets/index-CJVi3aWV.js"></script>
-    <link rel="modulepreload" crossorigin href="/staking-arena-blaze-site/assets/preload-helper-Cpm753wt.js">
+    <script type="module" crossorigin src="/staking-arena-blaze-site/assets/index-Byl6JxSR.js"></script>
+    <link rel="modulepreload" crossorigin href="/staking-arena-blaze-site/assets/preload-helper-BYiV9813.js">
     <link rel="modulepreload" crossorigin href="/staking-arena-blaze-site/assets/queueCounts-DqqWN4kh.js">
-    <link rel="stylesheet" crossorigin href="/staking-arena-blaze-site/assets/preload-helper-B_UtFkZH.css">
+    <link rel="stylesheet" crossorigin href="/staking-arena-blaze-site/assets/preload-helper-D8mdz6Qq.css">
   </head>
   <body>
     <style>#arena-public-preview:not([hidden])~#root{display:none}</style>
     <div id="arena-public-preview" class="app" hidden></div>
     <div id="root"><div id="arena-startup" role="status" style="font:16px system-ui;padding:32px">Loading Stake Arena…</div></div>
+    <dialog id="arena-welcome" class="wallet-dialog welcome-dialog" aria-label="Welcome to Stake Arena">
+      <form method="dialog"><button type="submit" aria-label="Close welcome" autofocus>×</button></form>
+      <p><strong>Stake Arena</strong> is a competitive market where users compete to lock up BCH or CashTokens in exchange for rewards.</p>
+      <p>This is not only a standalone product, but also a component to a <a href="#/about/stablecoin"><strong><em>novel stablecoin design</em></strong></a>. You can check out another component <a href="https://pennypicker.pages.dev/t" target="_blank" rel="noopener noreferrer">here</a>.</p>
+      <h2>How It Works</h2>
+      <p>Creators deploy vaults with a BCH or CashTokens reward for distribution to those who want it the most.</p>
+      <p>Stakers pick a vault and make a bid to lock the required asset in exchange for a reward. They decide how much they want to lock, for how long and how much of the reward they want. They are queued based on their score:</p>
+      <p><em>Priority Score = (Stake Amount × Lock Duration) / Requested Reward</em>.</p>
+      <p><a href="#/about">See About</a> for more details and use cases.</p>
+      <p>Happy staking!</p>
+    </dialog>
     <a class="telegram-link" href="https://t.me/bethechange_global" target="_blank" rel="noopener noreferrer" aria-label="Join Be the Change on Telegram (opens in a new tab)" title="Join us on Telegram">
       <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false">
         <path d="M21.8 4.6 18.6 20c-.2 1.1-.9 1.4-1.8.9l-4.9-3.6-2.4 2.3c-.3.3-.5.5-1 .5l.4-5 9.1-8.2c.4-.4-.1-.6-.6-.3L6.2 13.7l-4.8-1.5c-1-.3-1-1 .2-1.4L20.4 3.5c.9-.3 1.6.2 1.4 1.1Z"/>
