@@ -1,1 +1,0 @@
-export{t as AssetIndexer}from"./indexer-BKn2eFur.js";

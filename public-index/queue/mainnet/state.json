@@ -3,7 +3,8 @@
   "seen": [
     "8f7b064a0051163b68ed812a07710c1671e4257a7302ced47f094b0d2bc596c8",
     "5377b4f208064d4642fb9e58787708b4dbeba5a9eaaceee23d83682cc0e08d19",
-    "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408"
+    "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
+    "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375"
   ],
   "pending": {},
   "vaults": {
@@ -22,6 +23,24 @@
       },
       "anchor": {
         "genesis": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
+        "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
+      }
+    },
+    "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375": {
+      "parameters": {
+        "stakingCategory": "0000000000000000000000000000000000000000000000000000000000000000",
+        "rewardCategory": "0000000000000000000000000000000000000000000000000000000000000000",
+        "epoch": 1795080819,
+        "interval": 120000,
+        "releases": 5,
+        "cap": "1200"
+      },
+      "identity": {
+        "vault": "b9bb37791017fa2db13f9f5f9cfdf36767f4821a17e45e4b952267905ef14f5b",
+        "queue": "b0cdb761262af94732c40ecfa5911de12b1a462483db07530b45f00d1e2d57f7"
+      },
+      "anchor": {
+        "genesis": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
         "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
       }
     }

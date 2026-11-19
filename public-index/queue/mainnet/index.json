@@ -1,8 +1,8 @@
 {
   "network": "mainnet",
   "financialAuthority": false,
-  "updatedAt": "2026-11-19T02:43:37.482Z",
-  "total": 1,
+  "updatedAt": "2026-11-19T09:42:41.879Z",
+  "total": 2,
   "vaults": [
     {
       "parameters": {
@@ -21,12 +21,28 @@
         "genesis": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
         "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
       }
+    },
+    {
+      "parameters": {
+        "stakingCategory": "0000000000000000000000000000000000000000000000000000000000000000",
+        "rewardCategory": "0000000000000000000000000000000000000000000000000000000000000000",
+        "epoch": 1795080819,
+        "interval": 120000,
+        "releases": 5,
+        "cap": "1200"
+      },
+      "identity": {
+        "vault": "b9bb37791017fa2db13f9f5f9cfdf36767f4821a17e45e4b952267905ef14f5b",
+        "queue": "b0cdb761262af94732c40ecfa5911de12b1a462483db07530b45f00d1e2d57f7"
+      },
+      "anchor": {
+        "genesis": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
+        "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
+      }
     }
   ],
   "pages": [],
-  "online": 1,
+  "online": 2,
   "pending": {},
-  "errors": [
-    "Error: wss://bch.loping.net:50004: Error: Electrum WSS connection failed"
-  ]
+  "errors": []
 }
