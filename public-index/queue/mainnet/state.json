@@ -6,7 +6,8 @@
     "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
     "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
     "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
-    "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5"
+    "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
+    "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712"
   ],
   "pending": {},
   "vaults": {
@@ -79,6 +80,24 @@
       },
       "anchor": {
         "genesis": "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
+        "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
+      }
+    },
+    "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712": {
+      "parameters": {
+        "stakingCategory": "0000000000000000000000000000000000000000000000000000000000000000",
+        "rewardCategory": "750743caae9c2bbd57934409f73c0eb2083a79254fcae6e7781b78800b1c4b13",
+        "epoch": 1795113100,
+        "interval": 60000,
+        "releases": 10,
+        "cap": "100"
+      },
+      "identity": {
+        "vault": "7c8095901c48d7514065ca9d715ce74a9af09b0d919fc62fb46cdcf56d85e9ba",
+        "queue": "db4e70112d445ea3945af0a25da850ae7bf2686695798ceb5b3edd48d0272e6d"
+      },
+      "anchor": {
+        "genesis": "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
         "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
       }
     }
