@@ -1,7 +1,7 @@
 {
   "network": "mainnet",
   "financialAuthority": false,
-  "updatedAt": "2026-11-19T19:12:25.913Z",
+  "updatedAt": "2026-11-19T19:17:39.373Z",
   "total": 5,
   "vaults": [
     {
@@ -20,6 +20,12 @@
       "anchor": {
         "genesis": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
         "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
+      },
+      "offerCount": {
+        "network": "mainnet",
+        "vaultId": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
+        "waiting": 0,
+        "updatedAt": "2026-11-19T19:17:37.296Z"
       }
     },
     {
@@ -38,6 +44,12 @@
       "anchor": {
         "genesis": "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
         "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
+      },
+      "offerCount": {
+        "network": "mainnet",
+        "vaultId": "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
+        "waiting": 1,
+        "updatedAt": "2026-11-19T19:17:37.292Z"
       }
     },
     {
@@ -56,6 +68,12 @@
       "anchor": {
         "genesis": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
         "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
+      },
+      "offerCount": {
+        "network": "mainnet",
+        "vaultId": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
+        "waiting": 0,
+        "updatedAt": "2026-11-19T19:17:37.304Z"
       }
     },
     {
@@ -74,6 +92,12 @@
       "anchor": {
         "genesis": "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
         "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
+      },
+      "offerCount": {
+        "network": "mainnet",
+        "vaultId": "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
+        "waiting": 0,
+        "updatedAt": "2026-11-19T19:17:39.362Z"
       }
     },
     {
@@ -92,13 +116,17 @@
       "anchor": {
         "genesis": "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
         "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
+      },
+      "offerCount": {
+        "network": "mainnet",
+        "vaultId": "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
+        "waiting": 0,
+        "updatedAt": "2026-11-19T19:17:39.373Z"
       }
     }
   ],
   "pages": [],
-  "online": 1,
+  "online": 2,
   "pending": {},
-  "errors": [
-    "Error: wss://bch.loping.net:50004: Error: Electrum WSS connection failed"
-  ]
+  "errors": []
 }

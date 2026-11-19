@@ -1,7 +1,7 @@
 {
   "network": "chipnet",
   "financialAuthority": false,
-  "updatedAt": "2026-11-19T19:12:26.815Z",
+  "updatedAt": "2026-11-19T19:17:41.263Z",
   "total": 1,
   "vaults": [
     {
@@ -20,6 +20,12 @@
       "anchor": {
         "genesis": "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a",
         "creator": "03c03dd7d70d260d76e4d7cedb1fbe0d8af680f8247b912bc2bd1a9697ec7306b7"
+      },
+      "offerCount": {
+        "network": "chipnet",
+        "vaultId": "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a",
+        "waiting": 1,
+        "updatedAt": "2026-11-19T19:17:41.263Z"
       }
     }
   ],
