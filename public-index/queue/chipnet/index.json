@@ -1,7 +1,7 @@
 {
   "network": "chipnet",
   "financialAuthority": false,
-  "updatedAt": "2026-11-20T08:44:49.541Z",
+  "updatedAt": "2026-11-20T09:01:56.979Z",
   "total": 1,
   "vaults": [
     {
@@ -25,14 +25,12 @@
         "network": "chipnet",
         "vaultId": "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a",
         "waiting": 1,
-        "updatedAt": "2026-11-20T08:44:49.541Z"
+        "updatedAt": "2026-11-20T09:01:56.979Z"
       }
     }
   ],
   "pages": [],
-  "online": 1,
+  "online": 2,
   "pending": {},
-  "errors": [
-    "Error: wss://chipnet.bch.ninja:50004: Error: Electrum WSS connect timeout"
-  ]
+  "errors": []
 }
