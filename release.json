@@ -1,10 +1,10 @@
 {
   "sourceRepository": "https://github.com/staking-arena-blaze2026/bch-staking-blaze2026",
   "sourceBranch": "blaze2026",
-  "sourceCommit": "4e3a50dd9f8f67e69b36babc91fc1c68382ffb9f",
+  "sourceCommit": "9bd88a4a5be377dc2805c829420ef21fd6ab70af",
   "websiteRepository": "https://github.com/staking-arena-blaze2026/staking-arena-blaze-site",
   "url": "https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/",
-  "builtAt": "2026-11-20T08:12:49.416Z",
+  "builtAt": "2026-11-20T08:19:07.474Z",
   "network": "mainnet",
   "defaultNetwork": "mainnet",
   "networks": [
@@ -43,9 +43,9 @@
       "bytes": 46772
     },
     {
-      "path": "assets/app-entry-BaQwaUQ7.js",
-      "sha256": "1a12679d511a3c94659fb4c949df8310fe3279df3cd58ca37ce5add577757e83",
-      "bytes": 581286
+      "path": "assets/app-entry-CfnHmb16.js",
+      "sha256": "3421d838ee569f52bfeffaf300bfb2b756ed25326f6f1df1b74d80651f73f7cb",
+      "bytes": 581310
     },
     {
       "path": "assets/arena.worker-CuSDh4si.js",
@@ -56,6 +56,11 @@
       "path": "assets/brand/stake-arena-grill-emblem.webp",
       "sha256": "c7c535820d1cc8a42c1c2ab7569252473346ee681ed681d9afff98389645845a",
       "bytes": 114762
+    },
+    {
+      "path": "assets/brand/stake-arena-icon.png",
+      "sha256": "b4e43033ac68c588b4264c046da3b1d05aec4bafe9446e2358f35d913ccb11c2",
+      "bytes": 59493
     },
     {
       "path": "assets/brand/stake-arena-landscape-mobile-v1.webp",
@@ -103,8 +108,8 @@
       "bytes": 306718
     },
     {
-      "path": "assets/index-BnbZ3IoS.js",
-      "sha256": "f6c84c7b891de59c34ffa4cfdd6d6b56d7203628f4d5d557f265ac4a64ee6f71",
+      "path": "assets/index-D6ZyaS-f.js",
+      "sha256": "fa038adc2880858fca0cea0fccf71284b6ec0e709b881b0f8357751a719cd85f",
       "bytes": 6123
     },
     {
@@ -189,47 +194,47 @@
     },
     {
       "path": "index.html",
-      "sha256": "17b28d3a87599e184884723c17a5f2dd3cc9cdb9bd829f3e85f8d65f17de1060",
-      "bytes": 3501
+      "sha256": "5a6db22dc608b8b3be2d7726c4fc4f560e5ef099c6ee1c779332111433fd25db",
+      "bytes": 3601
     },
     {
       "path": "public-index/chipnet/index.json",
-      "sha256": "322b0c91f0d269d608b3010a0f5463c8159ebcd878a816608c4411ea14b9c1c7",
+      "sha256": "6422f41546fcdefd6f6a31e179f5c4d34ac0c2e8893b49d0278249824d2d7e34",
       "bytes": 651
     },
     {
       "path": "public-index/chipnet/state.json",
-      "sha256": "2b40f62709367a8178f969c43b7a82c96d624540f95121fcaf114edf1ef2ec65",
+      "sha256": "ddfd6e6530b1de88167cef827b1be0b36ac2298281ae044f67d0d538b150b204",
       "bytes": 909
     },
     {
       "path": "public-index/mainnet/index.json",
-      "sha256": "0f934e2f4f27e7187c08555d6d5bd9ecda60524525524b6ace49f6e52b3c24be",
+      "sha256": "771efb8e80f49bc0fa1b3f5df10811476b4feb6e008ace23ee9d4aff5f0f0548",
       "bytes": 1474
     },
     {
       "path": "public-index/mainnet/state.json",
-      "sha256": "bc0ecc60d0142fbd29b01b50e5c99616f477ee729c7b49be947526d5276c8734",
+      "sha256": "258ee58f7a981be239a8082eeb5692ab0c304c6422db9fa39556785ae41e1bcc",
       "bytes": 1009689
     },
     {
       "path": "public-index/queue/chipnet/index.json",
-      "sha256": "a1ebe2eb76ddec7893aff1acd924fb49ea206ad0f5b7d3106ae45e1b9adbfd6b",
+      "sha256": "140a4fdeb6cde2a0086591a9ff94a0f5fba4692acf1cfc22ca946c0b4958f356",
       "bytes": 1147
     },
     {
       "path": "public-index/queue/chipnet/state.json",
-      "sha256": "66402c0c7656fca8fc82865e4a66070f2c4876baf462792b87462fec1cab7f8b",
+      "sha256": "55ebaf142b9880e27b3881e3791ef1cadb9fc66820c6ff92c5e056cd73d79c14",
       "bytes": 1229
     },
     {
       "path": "public-index/queue/mainnet/index.json",
-      "sha256": "f0e19e72ea0fed9b258164b10d518cdbe54666c0af13e1b71341ac130cdcbf82",
+      "sha256": "cd2bb03b00a3f98e373548d89b907fabc79c55bff2ec556ffa3ec860bdb9e19b",
       "bytes": 4953
     },
     {
       "path": "public-index/queue/mainnet/state.json",
-      "sha256": "d60b45bfc740b6bc6291d6330bbfa3dbf04a4bc1090004802455add33ef5389e",
+      "sha256": "783dab6e7e305226197f61d9d4d770b496fdd9a42a955b7e4007b863aa8c2625",
       "bytes": 5907
     },
     {
