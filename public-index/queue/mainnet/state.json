@@ -126,37 +126,37 @@
       "network": "mainnet",
       "vaultId": "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
       "waiting": 1,
-      "updatedAt": "2026-11-20T16:47:12.701Z"
+      "updatedAt": "2026-11-20T17:17:58.631Z"
     },
     "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408": {
       "network": "mainnet",
       "vaultId": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
       "waiting": 0,
-      "updatedAt": "2026-11-20T16:47:12.687Z"
+      "updatedAt": "2026-11-20T17:17:58.640Z"
     },
     "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375": {
       "network": "mainnet",
       "vaultId": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
       "waiting": 0,
-      "updatedAt": "2026-11-20T16:47:12.691Z"
+      "updatedAt": "2026-11-20T17:17:58.636Z"
     },
     "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712": {
       "network": "mainnet",
       "vaultId": "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
       "waiting": 0,
-      "updatedAt": "2026-11-20T16:47:13.166Z"
+      "updatedAt": "2026-11-20T17:17:59.280Z"
     },
     "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5": {
       "network": "mainnet",
       "vaultId": "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
       "waiting": 0,
-      "updatedAt": "2026-11-20T16:47:12.695Z"
+      "updatedAt": "2026-11-20T17:17:58.644Z"
     },
     "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c": {
       "network": "mainnet",
       "vaultId": "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c",
       "waiting": 0,
-      "updatedAt": "2026-11-20T16:47:13.170Z"
+      "updatedAt": "2026-11-20T17:17:59.285Z"
     }
   },
   "rewards": {
@@ -164,7 +164,7 @@
       "network": "mainnet",
       "vaultId": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
       "remaining": "12000",
-      "updatedAt": "2026-11-20T16:47:12.194Z",
+      "updatedAt": "2026-11-20T17:17:58.248Z",
       "schedule": {
         "available": "6000",
         "nextRelease": 1795207685
@@ -174,7 +174,7 @@
       "network": "mainnet",
       "vaultId": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
       "remaining": "6000",
-      "updatedAt": "2026-11-20T16:47:12.200Z",
+      "updatedAt": "2026-11-20T17:17:58.258Z",
       "schedule": {
         "available": "0",
         "nextRelease": 1795200819
@@ -184,7 +184,7 @@
       "network": "mainnet",
       "vaultId": "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
       "remaining": "20000",
-      "updatedAt": "2026-11-20T16:47:12.189Z",
+      "updatedAt": "2026-11-20T17:17:58.242Z",
       "schedule": {
         "available": "2000",
         "nextRelease": 1795265697
@@ -194,7 +194,7 @@
       "network": "mainnet",
       "vaultId": "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
       "remaining": "2400",
-      "updatedAt": "2026-11-20T16:47:12.204Z",
+      "updatedAt": "2026-11-20T17:17:58.254Z",
       "schedule": {
         "available": "2400",
         "nextRelease": null
@@ -204,7 +204,7 @@
       "network": "mainnet",
       "vaultId": "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
       "remaining": "1000",
-      "updatedAt": "2026-11-20T16:47:12.442Z",
+      "updatedAt": "2026-11-20T17:17:58.505Z",
       "schedule": {
         "available": "100",
         "nextRelease": 1795233100
@@ -214,7 +214,7 @@
       "network": "mainnet",
       "vaultId": "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c",
       "remaining": "12000",
-      "updatedAt": "2026-11-20T16:47:12.447Z",
+      "updatedAt": "2026-11-20T17:17:58.510Z",
       "schedule": {
         "available": "0",
         "nextRelease": 1795433524
