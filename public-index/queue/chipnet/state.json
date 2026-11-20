@@ -1,9 +1,23 @@
 {
   "network": "chipnet",
   "seen": [
-    "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a"
+    "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a",
+    "f0f9234570a3ad826dd6823569213730fbe62fc6464e5fa2c68a0a0649c19137"
   ],
-  "pending": {},
+  "pending": {
+    "f0f9234570a3ad826dd6823569213730fbe62fc6464e5fa2c68a0a0649c19137": {
+      "parameters": {
+        "stakingCategory": "e27140c714ca01e0143c4a5d42a20dcbd356e68846b8321d680535b91219921a",
+        "rewardCategory": "84c7fe833ade565aeee5a46d407c7f2da02902f7e6b6c07826dd8d21efb7b3a7",
+        "epoch": 1795477906,
+        "interval": 43200,
+        "releases": 10,
+        "cap": "12"
+      },
+      "creator": "03c03dd7d70d260d76e4d7cedb1fbe0d8af680f8247b912bc2bd1a9697ec7306b7",
+      "queue": "d37b14593c1debb6e44418013ee626de21e6e3eb856d4ed7a218b3b4f2fe4ae0"
+    }
+  },
   "vaults": {
     "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a": {
       "parameters": {
@@ -29,7 +43,7 @@
       "network": "chipnet",
       "vaultId": "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a",
       "waiting": 1,
-      "updatedAt": "2026-11-20T22:50:58.890Z"
+      "updatedAt": "2026-11-20T23:11:11.105Z"
     }
   },
   "rewards": {
@@ -37,7 +51,7 @@
       "network": "chipnet",
       "vaultId": "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a",
       "remaining": "12000",
-      "updatedAt": "2026-11-20T22:50:58.751Z",
+      "updatedAt": "2026-11-20T23:11:10.982Z",
       "schedule": {
         "available": "8000",
         "nextRelease": 1795248704
