@@ -1,1 +1,0 @@
-export{t as AssetIndexer}from"./indexer-r_Fd-0aL.js";
