@@ -8,7 +8,8 @@
     "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
     "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
     "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
-    "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c"
+    "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c",
+    "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed"
   ],
   "pending": {},
   "vaults": {
@@ -119,6 +120,24 @@
         "genesis": "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c",
         "creator": "0300cefee78658e2b8aea44665196e68435079af534f53f33f24ca65a079bdf337"
       }
+    },
+    "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed": {
+      "parameters": {
+        "stakingCategory": "242f6ecedb404c743477e35b09733a56cacae34f3109d5cee1cbc1d5630affd7",
+        "rewardCategory": "5932b2fd4915d6a75d3ec53282cd49118149a2176ee67ed68b1111ff0786f7fc",
+        "epoch": 1795291345,
+        "interval": 36000,
+        "releases": 10,
+        "cap": "10000"
+      },
+      "identity": {
+        "vault": "6dda4384acc4d8c457ec76eb2b8f546e73b55ef55f1e144de2186d04c89f3fa2",
+        "queue": "0f960aba02e46c9abddfc1e4077b675bed593916f58b2d36e26702ade459e16f"
+      },
+      "anchor": {
+        "genesis": "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed",
+        "creator": "035fdce2e99df61d2f60f46429ba7bd5aeb80ae397d2b6b995f32a4e16c6eacbdc"
+      }
     }
   },
   "counts": {
@@ -126,37 +145,43 @@
       "network": "mainnet",
       "vaultId": "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
       "waiting": 1,
-      "updatedAt": "2026-11-20T17:17:58.631Z"
+      "updatedAt": "2026-11-20T22:50:55.770Z"
     },
     "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408": {
       "network": "mainnet",
       "vaultId": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
       "waiting": 0,
-      "updatedAt": "2026-11-20T17:17:58.640Z"
+      "updatedAt": "2026-11-20T22:50:55.778Z"
     },
     "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375": {
       "network": "mainnet",
       "vaultId": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
       "waiting": 0,
-      "updatedAt": "2026-11-20T17:17:58.636Z"
+      "updatedAt": "2026-11-20T22:50:56.246Z"
     },
     "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712": {
       "network": "mainnet",
       "vaultId": "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
       "waiting": 0,
-      "updatedAt": "2026-11-20T17:17:59.280Z"
+      "updatedAt": "2026-11-20T22:50:56.250Z"
     },
     "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5": {
       "network": "mainnet",
       "vaultId": "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
       "waiting": 0,
-      "updatedAt": "2026-11-20T17:17:58.644Z"
+      "updatedAt": "2026-11-20T22:50:55.774Z"
     },
     "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c": {
       "network": "mainnet",
       "vaultId": "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c",
       "waiting": 0,
-      "updatedAt": "2026-11-20T17:17:59.285Z"
+      "updatedAt": "2026-11-20T22:50:56.253Z"
+    },
+    "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed": {
+      "network": "mainnet",
+      "vaultId": "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed",
+      "waiting": 0,
+      "updatedAt": "2026-11-20T22:50:55.784Z"
     }
   },
   "rewards": {
@@ -164,27 +189,27 @@
       "network": "mainnet",
       "vaultId": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
       "remaining": "12000",
-      "updatedAt": "2026-11-20T17:17:58.248Z",
+      "updatedAt": "2026-11-20T22:50:55.270Z",
       "schedule": {
-        "available": "6000",
-        "nextRelease": 1795207685
+        "available": "8000",
+        "nextRelease": 1795250885
       }
     },
     "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375": {
       "network": "mainnet",
       "vaultId": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
       "remaining": "6000",
-      "updatedAt": "2026-11-20T17:17:58.258Z",
+      "updatedAt": "2026-11-20T22:50:55.518Z",
       "schedule": {
-        "available": "0",
-        "nextRelease": 1795200819
+        "available": "1200",
+        "nextRelease": 1795320819
       }
     },
     "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623": {
       "network": "mainnet",
       "vaultId": "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
       "remaining": "20000",
-      "updatedAt": "2026-11-20T17:17:58.242Z",
+      "updatedAt": "2026-11-20T22:50:55.278Z",
       "schedule": {
         "available": "2000",
         "nextRelease": 1795265697
@@ -194,7 +219,7 @@
       "network": "mainnet",
       "vaultId": "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
       "remaining": "2400",
-      "updatedAt": "2026-11-20T17:17:58.254Z",
+      "updatedAt": "2026-11-20T22:50:55.281Z",
       "schedule": {
         "available": "2400",
         "nextRelease": null
@@ -204,7 +229,7 @@
       "network": "mainnet",
       "vaultId": "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
       "remaining": "1000",
-      "updatedAt": "2026-11-20T17:17:58.505Z",
+      "updatedAt": "2026-11-20T22:50:55.525Z",
       "schedule": {
         "available": "100",
         "nextRelease": 1795233100
@@ -214,10 +239,20 @@
       "network": "mainnet",
       "vaultId": "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c",
       "remaining": "12000",
-      "updatedAt": "2026-11-20T17:17:58.510Z",
+      "updatedAt": "2026-11-20T22:50:55.530Z",
       "schedule": {
         "available": "0",
         "nextRelease": 1795433524
+      }
+    },
+    "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed": {
+      "network": "mainnet",
+      "vaultId": "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed",
+      "remaining": "100000",
+      "updatedAt": "2026-11-20T22:50:55.274Z",
+      "schedule": {
+        "available": "0",
+        "nextRelease": 1795327345
       }
     }
   }
