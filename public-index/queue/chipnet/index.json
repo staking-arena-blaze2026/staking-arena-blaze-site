@@ -1,7 +1,7 @@
 {
   "network": "chipnet",
   "financialAuthority": false,
-  "updatedAt": "2026-11-20T16:05:54.019Z",
+  "updatedAt": "2026-11-20T16:47:14.830Z",
   "total": 1,
   "vaults": [
     {
@@ -25,13 +25,13 @@
         "network": "chipnet",
         "vaultId": "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a",
         "waiting": 1,
-        "updatedAt": "2026-11-20T16:05:53.903Z"
+        "updatedAt": "2026-11-20T16:47:14.753Z"
       },
       "rewardSnapshot": {
         "network": "chipnet",
         "vaultId": "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a",
         "remaining": "12000",
-        "updatedAt": "2026-11-20T16:05:53.780Z",
+        "updatedAt": "2026-11-20T16:47:14.666Z",
         "schedule": {
           "available": "6000",
           "nextRelease": 1795205504
