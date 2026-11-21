@@ -1,0 +1,1 @@
+export{t as AssetIndexer}from"./indexer-Cdr-iGt3.js";
