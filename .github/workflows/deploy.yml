@@ -78,6 +78,8 @@ jobs:
           echo "Source commit: $SOURCE_SHA" >> "$GITHUB_STEP_SUMMARY"
           echo "Website commit: $(git -C website rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
       - uses: actions/configure-pages@v5
+      - name: Include slides PDF in Pages artifact
+        run: cp 'website/Stake Arena Slides.pdf' 'source/frontend/.pages-production/Stake Arena Slides.pdf'
       - uses: actions/upload-pages-artifact@v3
         with:
           path: source/frontend/.pages-production
