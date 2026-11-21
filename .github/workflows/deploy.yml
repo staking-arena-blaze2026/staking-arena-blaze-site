@@ -83,5 +83,7 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: source/frontend/.pages-production
+      - name: Allow Pages artifact metadata to propagate
+        run: sleep 10
       - uses: actions/deploy-pages@v4
         id: deployment
