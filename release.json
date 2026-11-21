@@ -1,10 +1,10 @@
 {
   "sourceRepository": "https://github.com/staking-arena-blaze2026/bch-staking-blaze2026",
   "sourceBranch": "blaze2026",
-  "sourceCommit": "0ac4a5b79eccd352121e4a5f38918c6881a6b337",
+  "sourceCommit": "627a4ec9d9c4756bee62b0e34bdf6eab89231f00",
   "websiteRepository": "https://github.com/staking-arena-blaze2026/staking-arena-blaze-site",
   "url": "https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/",
-  "builtAt": "2026-11-21T10:47:29.125Z",
+  "builtAt": "2026-11-21T11:02:49.356Z",
   "network": "mainnet",
   "defaultNetwork": "mainnet",
   "networks": [
@@ -43,8 +43,8 @@
       "bytes": 61298
     },
     {
-      "path": "assets/app-entry-CGayMyCs.js",
-      "sha256": "103202972af835d57082fdef9d119e246bbc3112551e8736a519045202e3fd81",
+      "path": "assets/app-entry-qohXCK45.js",
+      "sha256": "d4097306d634db4452e21deddb9d93ce40a8705923d7e88582e622bc86ea9693",
       "bytes": 681838
     },
     {
@@ -108,8 +108,8 @@
       "bytes": 307177
     },
     {
-      "path": "assets/index-DfQs4NI_.js",
-      "sha256": "128ade5765c70dd48b23cedf31d53e5585befa5b01b49c4bf4cca9770bb14b13",
+      "path": "assets/index-UfjNYr6F.js",
+      "sha256": "bfd72654f969667998f24889885a316cdfdcefa9f0c5144f5a269108aa50c288",
       "bytes": 7008
     },
     {
@@ -143,14 +143,14 @@
       "bytes": 1685
     },
     {
-      "path": "assets/preload-helper-BL7hwPx6.js",
+      "path": "assets/preload-helper-BqLJIihc.js",
       "sha256": "5209cedff8722485776f83276dea6982c4db3081720d2a31b21861fa644f1bf1",
       "bytes": 2105
     },
     {
-      "path": "assets/preload-helper-C9RHnkKn.css",
-      "sha256": "99cf4667442ed7f3c16b71843f725484841e6d8c35d09117f965d2227f77fa76",
-      "bytes": 42166
+      "path": "assets/preload-helper-CdsAb6nX.css",
+      "sha256": "65dc0b0e17acb20f1124a50fdd7adef2b75be0350d1d4bfdd3f37d7cf7eca374",
+      "bytes": 42220
     },
     {
       "path": "assets/queue.worker-CdXfKP3K.js",
@@ -199,47 +199,47 @@
     },
     {
       "path": "index.html",
-      "sha256": "f32048db0b4b825393446c8c4db4eb3ea14483e61371000e22121f5dbbd32a42",
+      "sha256": "abbdf3db5fe9b4724eae3fb166c5185a6b4b7702f8cbdaaedc68c62e4f2442d1",
       "bytes": 4071
     },
     {
       "path": "public-index/chipnet/index.json",
-      "sha256": "7bb320a3957497b8156f179431a278a4d900689098b0c03cda26c6d2180f4522",
+      "sha256": "7978d0542abd30ea6846c214d35a88101204b8d54e05a381d2190be7984ca793",
       "bytes": 651
     },
     {
       "path": "public-index/chipnet/state.json",
-      "sha256": "5c3a13431daddca4b65394dbd9b547435efe173e69fb0dcc67b25d7c0afc7751",
+      "sha256": "8ee7af92148b9ee33c8c54881f9a83459edb3728afdd9663c79130c8507f2b9a",
       "bytes": 989
     },
     {
       "path": "public-index/mainnet/index.json",
-      "sha256": "21e009dada1aa841c78370f1fb14a23b61c5cd2da93fc2c4bbfc817f5da6c0d8",
+      "sha256": "8c9a1dd917376742a8c4b495c157cef4d6f233a66b0833b082df23547d9cbca3",
       "bytes": 1474
     },
     {
       "path": "public-index/mainnet/state.json",
-      "sha256": "c824ee4840b5e39e193aba5017a8930a6f12d74094a9296e472ce34ed1cb83dc",
+      "sha256": "fcb89c8842a0ae1b8def40f1ca00537435c863383b485b328d3ff9d03b3a63f0",
       "bytes": 1009849
     },
     {
       "path": "public-index/queue/chipnet/index.json",
-      "sha256": "bc0c065038a8d51ae7f109af0094bc98f3375b899f13b8c9b863806f5f1d6d7d",
+      "sha256": "daa18fbd363853400bbbfc29614594c60ba9b58fe8c8832974ce7696493cbef4",
       "bytes": 2753
     },
     {
       "path": "public-index/queue/chipnet/state.json",
-      "sha256": "62cce8714affdd0b62dbfcf82cf65ed5f868d0ab3fb5a2e18d50325b0ba2a323",
+      "sha256": "8a6dbc677e8851ce7b020dff07a270c652083a1ff09ee8344471dfce80773be5",
       "bytes": 3096
     },
     {
       "path": "public-index/queue/mainnet/index.json",
-      "sha256": "9681ccc00bff7562c75622d5eaea3d1bafa298e3896ad3b7b911e639a5db72a7",
+      "sha256": "e7d7c0fc89766edb065e66f41bbe347f5de742a2ee2d609448cf1cbd2d23f6f9",
       "bytes": 9153
     },
     {
       "path": "public-index/queue/mainnet/state.json",
-      "sha256": "17c5804ae6730d78e2c6d0a7e3688dc594116444405cd5e4017f8e208e2dd6a3",
+      "sha256": "0dc8232345150a8912ab2f94234e038f1cfa222d4da7463e41fc52b17a8e58ec",
       "bytes": 10700
     },
     {
