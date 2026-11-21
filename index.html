@@ -8,11 +8,11 @@
     <link rel="icon" type="image/png" sizes="256x256" href="./assets/brand/stake-arena-icon.png"/>
     <link rel="apple-touch-icon" sizes="256x256" href="./assets/brand/stake-arena-icon.png"/>
     <title>Stake Arena · Vault marketplace</title>
-    <script type="module" crossorigin src="./assets/index-UfjNYr6F.js"></script>
-    <link rel="modulepreload" crossorigin href="./assets/preload-helper-BqLJIihc.js">
+    <script type="module" crossorigin src="./assets/index-BG5UCk8f.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/preload-helper-Dv3wdGbC.js">
     <link rel="modulepreload" crossorigin href="./assets/assetAmounts-mg2p9yyz.js">
     <link rel="modulepreload" crossorigin href="./assets/localTime-C8mTVfnw.js">
-    <link rel="stylesheet" crossorigin href="./assets/preload-helper-CdsAb6nX.css">
+    <link rel="stylesheet" crossorigin href="./assets/preload-helper-A1mK1oOv.css">
   </head>
   <body>
     <style>#arena-public-preview:not([hidden])~#root{display:none}</style>
@@ -22,7 +22,16 @@
       <a href="https://github.com/staking-arena-blaze2026/bch-staking-blaze2026" target="_blank" rel="noopener noreferrer">Code</a>
       <a href="https://github.com/staking-arena-blaze2026/staking-arena-blaze-site" target="_blank" rel="noopener noreferrer">Website code</a>
       <a href="https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/Stake%20Arena%20Slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
-      <code>bitcoincash:zqpsau5g4jhyhnma5exgmlgejkjkzwlzeqj6xyfkud</code>
+      <span class="blaze-address">
+        <code id="blaze-address">bitcoincash:zqpsau5g4jhyhnma5exgmlgejkjkzwlzeqj6xyfkud</code>
+        <button id="blaze-copy-address" type="button" aria-label="Copy Bitcoin Cash address" title="Copy Bitcoin Cash address" hidden>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true" focusable="false">
+            <rect x="8" y="8" width="12" height="12" rx="2"/>
+            <path d="M16 4H6a2 2 0 0 0-2 2v10"/>
+          </svg>
+        </button>
+        <span id="blaze-copy-status" role="status"></span>
+      </span>
     </nav>
     <div id="arena-public-preview" class="app" hidden></div>
     <div id="root"><div id="arena-startup" role="status" style="font:16px system-ui;padding:32px">Loading Stake Arena…</div></div>
