@@ -1,7 +1,7 @@
 {
   "network": "chipnet",
   "financialAuthority": false,
-  "updatedAt": "2026-11-25T07:21:19.891Z",
+  "updatedAt": "2026-11-25T18:03:17.814Z",
   "total": 2,
   "vaults": [
     {
@@ -25,13 +25,13 @@
         "network": "chipnet",
         "vaultId": "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a",
         "waiting": 1,
-        "updatedAt": "2026-11-25T07:21:19.873Z"
+        "updatedAt": "2026-11-25T18:03:17.767Z"
       },
       "rewardSnapshot": {
         "network": "chipnet",
         "vaultId": "086cbdbacc29f78f412b7e49e02fee17de266407a632c891bacca4a4b935f15a",
         "remaining": "12000",
-        "updatedAt": "2026-11-25T07:21:19.836Z",
+        "updatedAt": "2026-11-25T18:03:17.706Z",
         "schedule": {
           "available": "12000",
           "nextRelease": null
@@ -59,16 +59,16 @@
         "network": "chipnet",
         "vaultId": "f0f9234570a3ad826dd6823569213730fbe62fc6464e5fa2c68a0a0649c19137",
         "waiting": 0,
-        "updatedAt": "2026-11-25T07:21:19.864Z"
+        "updatedAt": "2026-11-25T18:03:17.761Z"
       },
       "rewardSnapshot": {
         "network": "chipnet",
         "vaultId": "f0f9234570a3ad826dd6823569213730fbe62fc6464e5fa2c68a0a0649c19137",
         "remaining": "120",
-        "updatedAt": "2026-11-25T07:21:19.830Z",
+        "updatedAt": "2026-11-25T18:03:17.702Z",
         "schedule": {
-          "available": "24",
-          "nextRelease": 1795607506
+          "available": "36",
+          "nextRelease": 1795650706
         }
       }
     }

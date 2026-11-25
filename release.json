@@ -4,7 +4,7 @@
   "sourceCommit": "28ffd65ec1e84190e107230a99105b68dc1f1722",
   "websiteRepository": "https://github.com/staking-arena-blaze2026/staking-arena-blaze-site",
   "url": "https://staking-arena-blaze2026.github.io/staking-arena-blaze-site/",
-  "builtAt": "2026-11-25T07:21:23.161Z",
+  "builtAt": "2026-11-25T18:03:19.906Z",
   "network": "mainnet",
   "defaultNetwork": "mainnet",
   "networks": [
@@ -204,42 +204,42 @@
     },
     {
       "path": "public-index/chipnet/index.json",
-      "sha256": "7f96ed115fbc2aa5794e4f907f61e05d9939c746dcfedea62d1192b087c02914",
+      "sha256": "3f501b067b65cafa45cfe125111b66e335707226e62c6e5f23d5dbcc02a336ec",
       "bytes": 651
     },
     {
       "path": "public-index/chipnet/state.json",
-      "sha256": "9ab755cd2c5bb08356aec615c0568378204e052d2b0a49d47f3afdad33b4185e",
+      "sha256": "2f8509aa6c72536cc8a8abab99b46ec51bb214c5571da6f886694e3a65f475db",
       "bytes": 989
     },
     {
       "path": "public-index/mainnet/index.json",
-      "sha256": "8bc5ba20214238a42a65d3e96b2742a531410efb8f45e2a3080380562a32e8ae",
+      "sha256": "fc20cd21115b6b9db1a84535203d6de7645b166b530d8c6264a9d5b43d72e4a2",
       "bytes": 1474
     },
     {
       "path": "public-index/mainnet/state.json",
-      "sha256": "2196f489c5acec7ab88978dc2ebfac01e2c234c90e446c6be6230b390a23b892",
+      "sha256": "07eb62cbf1f57a737b6e1d70ca05133447a956458d97b7fa461b4b5f49546a6e",
       "bytes": 1009849
     },
     {
       "path": "public-index/queue/chipnet/index.json",
-      "sha256": "f7dd7647abf875dea597cfc5b09bd33f8619a87dcd2a7a67f56797f8611d8455",
+      "sha256": "8d07a2d8d0389f402dbe92840cd3e7c350bc58199cd26c4c575e1d04833da4e2",
       "bytes": 2748
     },
     {
       "path": "public-index/queue/chipnet/state.json",
-      "sha256": "f58d66e3d3202181d3f5e1d66c470821ebbe6f4e9e1b3a094619fff42c20c221",
+      "sha256": "be8f4fe601fe86d100ca6371c4a062fef325802770758df4e6311cc80e06d996",
       "bytes": 3091
     },
     {
       "path": "public-index/queue/mainnet/index.json",
-      "sha256": "208ab8afa6f41ea36c058eb3038df36a12c8130ab974651bddc91de24bedbcf3",
+      "sha256": "dd2a4c7b965dcd8f33cd94a00da88c63c073437c516759edd339626a47ae7d8e",
       "bytes": 9149
     },
     {
       "path": "public-index/queue/mainnet/state.json",
-      "sha256": "af6ba201622fe6ba8fdf1172f64f4c8ba55f6b65825b59ad2260c55c9747d4ab",
+      "sha256": "ad456a19b7532103b76130bf1368ec9e067cbacdf9cda2265bbb318d641f59f5",
       "bytes": 10696
     },
     {
