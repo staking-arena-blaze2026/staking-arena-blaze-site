@@ -1,7 +1,7 @@
 {
   "network": "mainnet",
   "financialAuthority": false,
-  "updatedAt": "2026-11-26T10:04:43.657Z",
+  "updatedAt": "2026-11-26T19:32:14.582Z",
   "total": 7,
   "vaults": [
     {
@@ -25,13 +25,13 @@
         "network": "mainnet",
         "vaultId": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
         "waiting": 0,
-        "updatedAt": "2026-11-26T10:04:42.971Z"
+        "updatedAt": "2026-11-26T19:32:14.389Z"
       },
       "rewardSnapshot": {
         "network": "mainnet",
         "vaultId": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
         "remaining": "12000",
-        "updatedAt": "2026-11-26T10:04:42.493Z",
+        "updatedAt": "2026-11-26T19:32:14.220Z",
         "schedule": {
           "available": "12000",
           "nextRelease": null
@@ -59,16 +59,16 @@
         "network": "mainnet",
         "vaultId": "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
         "waiting": 1,
-        "updatedAt": "2026-11-26T10:04:42.979Z"
+        "updatedAt": "2026-11-26T19:32:14.384Z"
       },
       "rewardSnapshot": {
         "network": "mainnet",
         "vaultId": "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
         "remaining": "20000",
-        "updatedAt": "2026-11-26T10:04:42.486Z",
+        "updatedAt": "2026-11-26T19:32:14.234Z",
         "schedule": {
-          "available": "12000",
-          "nextRelease": 1795715697
+          "available": "14000",
+          "nextRelease": 1795805697
         }
       }
     },
@@ -93,13 +93,13 @@
         "network": "mainnet",
         "vaultId": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
         "waiting": 0,
-        "updatedAt": "2026-11-26T10:04:43.431Z"
+        "updatedAt": "2026-11-26T19:32:14.520Z"
       },
       "rewardSnapshot": {
         "network": "mainnet",
         "vaultId": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
         "remaining": "6000",
-        "updatedAt": "2026-11-26T10:04:42.723Z",
+        "updatedAt": "2026-11-26T19:32:14.300Z",
         "schedule": {
           "available": "6000",
           "nextRelease": null
@@ -127,16 +127,16 @@
         "network": "mainnet",
         "vaultId": "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
         "waiting": 0,
-        "updatedAt": "2026-11-26T10:04:43.445Z"
+        "updatedAt": "2026-11-26T19:32:14.532Z"
       },
       "rewardSnapshot": {
         "network": "mainnet",
         "vaultId": "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
         "remaining": "1000",
-        "updatedAt": "2026-11-26T10:04:42.742Z",
+        "updatedAt": "2026-11-26T19:32:14.310Z",
         "schedule": {
-          "available": "900",
-          "nextRelease": 1795713100
+          "available": "1000",
+          "nextRelease": null
         }
       }
     },
@@ -161,13 +161,13 @@
         "network": "mainnet",
         "vaultId": "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed",
         "waiting": 1,
-        "updatedAt": "2026-11-26T10:04:42.993Z"
+        "updatedAt": "2026-11-26T19:32:14.404Z"
       },
       "rewardSnapshot": {
         "network": "mainnet",
         "vaultId": "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed",
         "remaining": "100000",
-        "updatedAt": "2026-11-26T10:04:42.480Z",
+        "updatedAt": "2026-11-26T19:32:14.228Z",
         "schedule": {
           "available": "100000",
           "nextRelease": null
@@ -195,16 +195,16 @@
         "network": "mainnet",
         "vaultId": "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c",
         "waiting": 1,
-        "updatedAt": "2026-11-26T10:04:43.440Z"
+        "updatedAt": "2026-11-26T19:32:14.527Z"
       },
       "rewardSnapshot": {
         "network": "mainnet",
         "vaultId": "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c",
         "remaining": "12000",
-        "updatedAt": "2026-11-26T10:04:42.737Z",
+        "updatedAt": "2026-11-26T19:32:14.316Z",
         "schedule": {
-          "available": "6000",
-          "nextRelease": 1795703524
+          "available": "8000",
+          "nextRelease": 1795793524
         }
       }
     },
@@ -229,13 +229,13 @@
         "network": "mainnet",
         "vaultId": "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
         "waiting": 0,
-        "updatedAt": "2026-11-26T10:04:42.985Z"
+        "updatedAt": "2026-11-26T19:32:14.396Z"
       },
       "rewardSnapshot": {
         "network": "mainnet",
         "vaultId": "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
         "remaining": "0",
-        "updatedAt": "2026-11-26T10:04:42.499Z",
+        "updatedAt": "2026-11-26T19:32:14.239Z",
         "schedule": {
           "available": "0",
           "nextRelease": null
@@ -244,7 +244,9 @@
     }
   ],
   "pages": [],
-  "online": 2,
+  "online": 1,
   "pending": {},
-  "errors": []
+  "errors": [
+    "Error: wss://bch.loping.net:50004: Error: Electrum WSS connection failed"
+  ]
 }
