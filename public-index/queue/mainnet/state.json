@@ -145,43 +145,43 @@
       "network": "mainnet",
       "vaultId": "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
       "waiting": 1,
-      "updatedAt": "2026-11-27T19:54:08.199Z"
+      "updatedAt": "2026-11-28T02:23:26.434Z"
     },
     "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408": {
       "network": "mainnet",
       "vaultId": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
       "waiting": 0,
-      "updatedAt": "2026-11-27T19:54:08.187Z"
+      "updatedAt": "2026-11-28T02:23:26.427Z"
     },
     "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375": {
       "network": "mainnet",
       "vaultId": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
       "waiting": 0,
-      "updatedAt": "2026-11-27T19:54:08.649Z"
+      "updatedAt": "2026-11-28T02:23:26.564Z"
     },
     "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712": {
       "network": "mainnet",
       "vaultId": "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
       "waiting": 0,
-      "updatedAt": "2026-11-27T19:54:08.644Z"
+      "updatedAt": "2026-11-28T02:23:26.569Z"
     },
     "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5": {
       "network": "mainnet",
       "vaultId": "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
       "waiting": 0,
-      "updatedAt": "2026-11-27T19:54:08.204Z"
+      "updatedAt": "2026-11-28T02:23:26.448Z"
     },
     "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c": {
       "network": "mainnet",
       "vaultId": "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c",
       "waiting": 1,
-      "updatedAt": "2026-11-27T19:54:08.654Z"
+      "updatedAt": "2026-11-28T02:23:26.577Z"
     },
     "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed": {
       "network": "mainnet",
       "vaultId": "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed",
       "waiting": 1,
-      "updatedAt": "2026-11-27T19:54:08.193Z"
+      "updatedAt": "2026-11-28T02:23:26.442Z"
     }
   },
   "rewards": {
@@ -189,7 +189,7 @@
       "network": "mainnet",
       "vaultId": "081db9671c54ed088add8785ba666a793cc913aa3df0fed854f40450d5552408",
       "remaining": "12000",
-      "updatedAt": "2026-11-27T19:54:07.702Z",
+      "updatedAt": "2026-11-28T02:23:26.261Z",
       "schedule": {
         "available": "12000",
         "nextRelease": null
@@ -199,7 +199,7 @@
       "network": "mainnet",
       "vaultId": "0d7a591f871421d2197df91f0d02c4cd75942820e81dbaaee4089438a50dd375",
       "remaining": "6000",
-      "updatedAt": "2026-11-27T19:54:07.956Z",
+      "updatedAt": "2026-11-28T02:23:26.343Z",
       "schedule": {
         "available": "6000",
         "nextRelease": null
@@ -209,17 +209,17 @@
       "network": "mainnet",
       "vaultId": "0c5cc5c303dde881b8d78d02e45613f5437a0d6983e57df0401dbf97ef6de623",
       "remaining": "20000",
-      "updatedAt": "2026-11-27T19:54:07.713Z",
+      "updatedAt": "2026-11-28T02:23:26.269Z",
       "schedule": {
-        "available": "14000",
-        "nextRelease": 1795805697
+        "available": "16000",
+        "nextRelease": 1795895697
       }
     },
     "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5": {
       "network": "mainnet",
       "vaultId": "b518f1700b57d81b542acc7036c92ac4e52ff8a8d73146cf01141cc6b879e3e5",
       "remaining": "0",
-      "updatedAt": "2026-11-27T19:54:07.722Z",
+      "updatedAt": "2026-11-28T02:23:26.279Z",
       "schedule": {
         "available": "0",
         "nextRelease": null
@@ -229,7 +229,7 @@
       "network": "mainnet",
       "vaultId": "2997abe1f7e5df06dc6cc7f8dbd2b7a30568eceb1993757304c1aa4df35b7712",
       "remaining": "1000",
-      "updatedAt": "2026-11-27T19:54:07.961Z",
+      "updatedAt": "2026-11-28T02:23:26.353Z",
       "schedule": {
         "available": "1000",
         "nextRelease": null
@@ -239,7 +239,7 @@
       "network": "mainnet",
       "vaultId": "ae3b6272e0209433bbd1f9fa220f9a532fb07259d78945dab41ee5e09a2f832c",
       "remaining": "12000",
-      "updatedAt": "2026-11-27T19:54:07.965Z",
+      "updatedAt": "2026-11-28T02:23:26.359Z",
       "schedule": {
         "available": "10000",
         "nextRelease": 1795883524
@@ -249,7 +249,7 @@
       "network": "mainnet",
       "vaultId": "2ae45c0c19b8112d4e86babcecb506adf03a32b2b7bf7f54751f22205ac2e0ed",
       "remaining": "100000",
-      "updatedAt": "2026-11-27T19:54:07.717Z",
+      "updatedAt": "2026-11-28T02:23:26.274Z",
       "schedule": {
         "available": "100000",
         "nextRelease": null
